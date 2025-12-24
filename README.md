@@ -26,7 +26,7 @@ Always review and adapt them before running on any production system.
 
 ## Quick demo
 
-git clone https://github.com/bernardbiokou/linuxbaseline.git
+git clone https://github.com/bernardbiokou/linuxbaseline-demo.git
 cd linuxbaseline/scripts
 
 Edit the config and paste your SSH public key
