@@ -42,3 +42,11 @@ text
 
 A complete, production-ready version of this kit (all scripts + documentation + support) will be sold via my store (Lemon Squeezy).  
 Link will be added here when the store is approved.
+
+## Roadmap
+
+- v1.1: More OS versions tested (Rocky/AlmaLinux/CentOS)
+- v1.2: Optional profile for web servers (HTTP/HTTPS firewall presets)
+- v2.0: Ansible role for the full baseline
+- v2.1: UFW + fail2ban “security add-on” kit
+- v3.0: Monitoring starter (node_exporter + basic dashboard)
