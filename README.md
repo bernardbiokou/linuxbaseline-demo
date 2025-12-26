@@ -39,7 +39,7 @@ sudo bash 02_harden_ssh.sh
 ## Full version 
 
 A complete, production-ready version of this kit (all scripts + documentation + support) available on gumroad.  
-https://alobasphere.gumroad.com/l/linux-baseline-kit
+https://aloba.gumroad.com/l/linux-baseline-kit
 
 ## Roadmap
 
