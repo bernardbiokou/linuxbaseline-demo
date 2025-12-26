@@ -3,7 +3,8 @@
 Linux baseline kit for sysadmins and DevOps.  
 This public repository shows the basic idea of the baseline: bash scripts to provision a secure, standardized Debian/Ubuntu server (non-root admin user, SSH hardening, etc.).
 
-The full production-ready kit (all scripts + guide + support) will be available on my store soon.
+A complete, production-ready version of this kit (all scripts + documentation + support) available on gumroad.  
+https://aloba.gumroad.com/l/linux-baseline-kit
 
 ## What this demo contains
 
