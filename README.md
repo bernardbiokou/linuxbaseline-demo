@@ -36,12 +36,10 @@ Run as root on a test Debian/Ubuntu server
 sudo bash 01_create_admin_user.sh
 sudo bash 02_harden_ssh.sh
 
-text
+## Full version 
 
-## Full version (soon)
-
-A complete, production-ready version of this kit (all scripts + documentation + support) will be sold via my store (Lemon Squeezy).  
-Link will be added here when the store is approved.
+A complete, production-ready version of this kit (all scripts + documentation + support) available on gumroad.  
+https://alobasphere.gumroad.com/l/linux-baseline-kit
 
 ## Roadmap
 
